@@ -1,4 +1,4 @@
-# 🚀 Discord Promo Link
+# 🚀 Discord Promo Linker
 This tool allows you to link Streamlabs promos to tokens for redeeming.  
 
 ### **Key Features**:

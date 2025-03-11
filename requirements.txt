@@ -1,0 +1,4 @@
+loguru==0.7.3
+tls_client==1.0.1
+typing-extensions
+requests
